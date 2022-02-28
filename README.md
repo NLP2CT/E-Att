@@ -7,6 +7,7 @@ This repository contains the source code of Attention Mechanism with Energy-Frie
 
 Please cite the paper as follows:
 
+```
 @inproceedings{wan2022attention,
     title = "{{Attention Mechanism with Energy-Friendly Operations}}",
     author = "Wan, Yu  and
@@ -20,3 +21,4 @@ Please cite the paper as follows:
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
     year = "2022",
 }
+```
