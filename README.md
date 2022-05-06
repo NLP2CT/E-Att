@@ -1,6 +1,6 @@
 # E-Att
 
-This repository contains the source code of Attention Mechanism with Energy-Friendly Operations.
+This repository contains the source code of Attention Mechanism with Energy-Friendly Operations. Paper link is [here](https://arxiv.org/abs/2204.13353).
 
 
 # Citation
